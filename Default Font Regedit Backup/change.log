@@ -1,0 +1,21 @@
+Directory: \HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts
+
+
+Original value pairs:
+
+Microsoft YaHei & Microsoft YaHei UI (TrueType)
+msyh.ttc
+Microsoft YaHei Bold & Microsoft YaHei UI Bold (TrueType)
+msyhbd.ttc
+Microsoft YaHei Light & Microsoft YaHei UI Light (TrueType)
+msyhl.ttc
+
+
+New value pairs:
+
+Microsoft YaHei & Microsoft YaHei UI (TrueType)
+PingFang-SC-Regular.ttf
+Microsoft YaHei Bold & Microsoft YaHei UI Bold (TrueType)
+PingFang-SC-Bold.ttf
+Microsoft YaHei Light & Microsoft YaHei UI Light (TrueType)
+PingFang-SC-Light.ttf
